@@ -16,7 +16,7 @@ section{
 	
 	position: relative;
 	min-height: 100vh;
-	background: url(images/bg3.jpg);
+	background: url(bg3.jpg);
 	background-size: cover;
 	background-position: right;
 	display: flex;
@@ -130,7 +130,7 @@ header ul li a{
 
 .about{
 	
-	background: url(images/bg.jpg);
+	background: url(bg.jpg);
 	background-size: cover;
 	
 }
