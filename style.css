@@ -130,7 +130,7 @@ header ul li a{
 
 .about{
 	
-	background: url(bg.jpg);
+	background: url("bg.jpg");
 	background-size: cover;
 	
 }
